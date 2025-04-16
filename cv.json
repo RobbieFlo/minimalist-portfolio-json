@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Carlos Flores Arevalo",
+    "name": "Carlos Flores Arevalo “Robbie” ",
     "label": "Escritor con más de 10 Años con experiencia como Consultor SEO, Desarrollador y Web Master Profesional",
     "image": "/me.webp",
     "email": "poleposition@gmail.com",
@@ -51,6 +51,17 @@
       ]
     },
     {
+      "name": "Fundador de OAEE    ",
+      "position": "Organización de Ayuda Educativa en Español",
+      "startDate": "2021-13-05",
+      "endDate": null,
+      "summary": "Soy creador de la Organización de Ayuda Educativa en Español (OAEE) el 13 de mayo de 2021. Con esta iniciativa, me comprometí a ofrecer recursos educativos gratuitos y confiables en español, respaldados por estrictos estándares de calidad evaluados por profesionales y académicos. Mi misión es transmitir transparencia, confianza y autoridad para apoyar el acceso a una educación de excelencia para todos.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  {
       "name": "Desarrollador Web",
       "position": "Senior Developer, WebMaster",
       "startDate": "2011-13-01",
@@ -78,11 +89,6 @@
     "area": "Agradezco el crecimiento de mi experiencia a grandes SEO´s que comparten sus descubrimientos de manera libre, SEO´s que me han cambiado la vida como; Lily Ray, Brodie Clark, Marie Haynes, Barry Schwartz, Brian Dean, Aleida Solis, entre muchos más. Solo se, que si no fuera por ellos, no viviría del SEO.",
     "studyType": "Profesional",
     "startDate": "2009-01-01",
-    "institution": "Estudiar lengua y Literatura me dio las bases para comenzar como escritor",
-    "url": "#",
-    "area": "Estudie en la Facultad de Filosofía y Letras, la licenciatura de Lingüística y Literatura por 3.5 años, sin título. Comencé a escribir como profesional en 2012 y me especialicé en el Estilo APA (Normas, redacción, gramática, formato…)",
-    "studyType": "Profesional",
-    "startDate": "1998-01-01",
     "endDate": null,
     "score": "9.8",
     "courses": [
