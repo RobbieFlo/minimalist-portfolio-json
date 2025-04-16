@@ -59,9 +59,8 @@
       "highlights": [
         "Started the company"
       ]
-    }
-  ],
-  {
+    },
+    {
       "name": "Desarrollador Web",
       "position": "Senior Developer, WebMaster",
       "startDate": "2011-13-01",
@@ -70,8 +69,7 @@
       "highlights": [
         "Started the company"
       ]
-    }
-  ],
+    }],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
