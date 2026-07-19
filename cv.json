@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Carlos Flores Arevalo “Robbie” ",
-    "label": "Escritor y Autor Profesional con más de 10 Años con experiencia como Consultor SEO 100% orgánico. Desarrollador Web master",
+    "name": "Carlos Flores Arévalo",
+    "label": "Escritor y Autor Profesional con más de 10 Años de experiencia como Consultor SEO 100% orgánico. Desarrollador Web Master",
     "image": "/me.webp",
-    "email": "poleposition@gmail.com",
+    "email": "carlosflar@outlook.com",
     "phone": "+52 2224914968",
     "url": "https://carlosflores.com.es",
-    "summary": "Escritor con 13 años de experiencia y formación en Lengua y Literatura. Experto especializado en el Estilo APA; mi pasión es transformar ideas en narrativas que inspiran y conectan. + de 10 años de experiencia como consultor SEO y desarrollador web. Actualmente me especializo en SEO On Page y un poco de programación. Vivo en Puebla, México. Trabajo como consultor SEO de una organización y vivo desarrollando mis proyectos propios donde monetizo sitios web, SEO optimizados.",
+    "summary": "Especialista en el desarrollo de portales educativos, consultorías de Estilo APA, control de calidad lingüística y proyectos vinculados al entrenamiento y evaluación de modelos de inteligencia artificial (AI Training). Cuento con amplia experiencia estructurando contenido de alta precisión, optimizando respuestas complejas y validando formatos académicos rigurosos.",
     "location": {
       "address": "Jardines de San Manuel",
       "postalCode": "072570",
@@ -16,13 +16,18 @@
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "carlos-flores-a54364353",
+        "url": "https://www.linkedin.com/in/carlos-flores-a54364353/"
+      },
+      {
         "network": "X",
         "username": "Robbie",
         "url": "https://x.com/robbiearevalo"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
+        "username": "RobbieFlo",
         "url": "https://github.com/RobbieFlo"
       }
     ]
@@ -31,248 +36,187 @@
     {
       "name": "SEO Profesional",
       "position": "Especialista en SEO On Page",
-      "url": "#",
+      "url": "https://carlosflores.com.es",
       "startDate": "2014-01-01",
       "endDate": null,
-      "summary": "Dedicado a clasificar sitios web en los navegadores mediante técnicas de SEO y con el propósito de ganar dinero monetizando los sitios con Ads y/o afiliados. Comence hace más de 8 años y tarde dos años para ganar dinero.",
+      "summary": "Dedicado a clasificar sitios web en los navegadores mediante técnicas de SEO y con el propósito de ganar dinero monetizando los sitios con Ads y/o afiliados. Comencé hace más de 8 años y tardé dos años para ganar dinero.",
       "highlights": [
-        "Started the company"
+        "Monetización orgánica",
+        "Optimización de contenido"
       ]
     },
     {
       "name": "Consultor SEO",
       "position": "Organizaciones y dependencias",
-      "url": "https://twitch.tv/midudev",
+      "url": "#",
       "startDate": "2017-03-01",
       "endDate": null,
-      "summary": "Soy consultor SEO de algunas organizaciones estatales donde mi trabajo es verificar que se sigan mis indicaciones de optimización en artículos, páginas, sitios web completos y campañas publicitarias para que la ciudadanía este al día de noticias, programas sociales y eventos.",
+      "summary": "Soy consultor SEO de algunas organizaciones estatales donde mi trabajo es verificar que se sigan mis indicaciones de optimización en artículos, páginas, sitios web completos y campañas publicitarias para que la ciudadanía esté al día de noticias, programas sociales y eventos.",
       "highlights": [
-        "Started the company"
+        "Estrategia de contenidos",
+        "Optimización a gran escala"
       ]
     },
     {
-      "name": "Fundador de OAEE    ",
+      "name": "Fundador de OAEE",
       "position": "Organización de Ayuda Educativa en Español",
-      "startDate": "2021-13-05",
+      "startDate": "2021-05-13",
       "endDate": null,
       "summary": "Soy creador de la Organización de Ayuda Educativa en Español (OAEE) el 13 de mayo de 2021. Con esta iniciativa, me comprometí a ofrecer recursos educativos gratuitos y confiables en español, respaldados por estrictos estándares de calidad evaluados por profesionales y académicos. Mi misión es transmitir transparencia, confianza y autoridad para apoyar el acceso a una educación de excelencia para todos.",
       "highlights": [
-        "Started the company"
+        "Educación libre",
+        "Formatos académicos"
       ]
     },
     {
       "name": "Desarrollador Web",
       "position": "Senior Developer, WebMaster",
-      "startDate": "2011-13-01",
+      "startDate": "2011-01-13",
       "endDate": null,
-      "summary": "Creo sitios web bien estructurados internamente, optimizo los contenidos de páginas y post, realizo diseños simples pero bonitos que cumplan con pautas como EEAT (“Experiencia, Conocimiento, Autoridad y Confianza”) integro herramientas y funcionalidades para hacérselo más fácil a los bots de Google. A fin de cuentas, lo más importante es la Experiencia de Usuario (UX).",
+      "summary": "Creo sitios web bien estructurados internamente, optimizo los contenidos de páginas y posts, realizo diseños simples pero bonitos que cumplan con pautas como EEAT (“Experiencia, Conocimiento, Autoridad y Confianza”) e integro herramientas y funcionalidades para hacérselo más fácil a los bots de Google. A fin de cuentas, lo más importante es la Experiencia de Usuario (UX).",
       "highlights": [
-        "Started the company"
+        "Experiencia de Usuario (UX)",
+        "E-E-A-T Optimización"
       ]
-    }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "#",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-    "education": [{
-    "institution": "Todo lo que se, lo he aprendido en Internet",
-    "url": "#",
-    "area": "Estudie en la Facultad de Filosofía y Letras, la licenciatura de Lingüística y Literatura por 3.5 años, sin título. Comencé a escribir como profesional en 2012 y me especialicé en el Estilo APA (Normas, redacción, gramática, formato…). Agradezco el crecimiento de mi experiencia a grandes SEO´s que comparten sus descubrimientos de manera libre, SEO´s que me han cambiado la vida como; Lily Ray, Brodie Clark, Marie Haynes, Barry Schwartz, Brian Dean, Aleida Solis, entre muchos más. Solo se, que si no fuera por ellos, no viviría del SEO.",  
-    "studyType": "Profesional",
-    "startDate": "2009-01-01",
-    "endDate": null,
-    "score": "9.8",
-    "courses": [
-      "SEO"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2017-13-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2020-11-07",
-    "issuer": "Company",
-    "url": "#"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2017-10-01",
-    "url": "#",
-    "summary": "Description…"
-  }],
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Veracruzana",
+      "url": "https://www.uv.mx",
+      "area": "Licenciatura en Lengua y Literatura (Trayecto Parcial — Cursados 2.5 años)",
+      "studyType": "Superior",
+      "startDate": "2009-01-01",
+      "endDate": null,
+      "score": null,
+      "courses": [
+        "Gramática Avanzada",
+        "Formatos Editoriales",
+        "Estilo APA"
+      ],
+      "summary": "Mi interés por la Filosofía y las Letras nace de una curiosidad natural por la gramática, la lectura y el poder de las palabras. Durante esta etapa consolidé las bases lingüísticas y editoriales que hoy sustentan mis desarrollos digitales en normalización y formatos académicos."
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
+      "name": "Redacción y Estilo",
+      "level": "Experto",
       "keywords": [
-        "Desarrollo Web", "SEO"
+        "Normativa y Estilo APA",
+        "Gramática y ortografía",
+        "Corrección de estilo",
+        "Redacción académica",
+        "Análisis lingüístico"
       ]
     },
     {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
+      "name": "Proyectos y Divulgación",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Portales educativos libres",
+        "Guionismo audiovisual",
+        "Generadores académicos",
+        "Divulgación digital",
+        "Gestión de contenido"
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "Herramientas y Entorno",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo frontend (HTML/CSS/JS)",
+        "Entrenamiento e IA (Claude)",
+        "Automatización digital",
+        "Control de versiones (GitHub)"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Inglés",
+      "fluency": "Avanzado"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Lily Ray",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Educación Libre",
+      "keywords": [
+        "Formatos Académicos",
+        "Divulgación"
+      ]
+    },
+    {
+      "name": "Inteligencia Artificial",
+      "keywords": [
+        "AI Training",
+        "Optimización de Respuestas"
+      ]
+    }
+  ],
+  "references": [],
   "projects": [
     {
-      "name": "HTML",
+      "name": "apa.org.es",
       "isActive": true,
-      "description": "Cree mi primer sitio web con HTML y un Host gratuito",
+      "description": "Plataforma web creada para ofrecer acceso gratuito a las pautas de estilo, formato y gramática oficial en español. Incluye un generador automático de citas y referencias en formato APA completamente gratis.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Estilo APA",
+        "Generador Automático",
+        "Educación Libre"
       ],
-      "url": "#"
+      "url": "https://apa.org.es/"
     },
     {
-      "name": "CSS",
+      "name": "Red de Portales de Aprendizaje",
       "isActive": true,
-      "description": "La ilusión de cambiar la apariencia, de embellecer una página con este código es genial",
+      "description": "Especialización en la redacción de artículos y estructuración de contenidos educativos para plataformas libres de alta divulgación en español como organigramas.com.es, MapaConceptual.com.es y Becas.org.es.",
       "highlights": [
-        "Los estilos",
-        "Lo cambian todo"
+        "Redacción Académica",
+        "SEO Educativo",
+        "Pedagogía"
       ],
-      "url": "#"
+      "url": "https://organigramas.com.es/"
     },
     {
-      "name": "JavaScript",
+      "name": "APA para TODOS (YouTube)",
       "isActive": true,
-      "description": "Mi primer programa fue pequeñito, pero que felicidad ver que funcionaba.",
+      "description": "Proyecto audiovisual enfocado en la enseñanza interactiva sobre las Normas APA. Producción de tutoriales prácticos, resolución de dudas frecuentes y guías dinámicas para facilitar procesos académicos.",
       "highlights": [
-        "Una de las mejores experiencias",
-        "De mi vida"
+        "Divulgación",
+        "YouTube",
+        "Formato Académico"
       ],
-      "url": "#"
+      "url": "https://www.youtube.com/@APA-Formato"
     },
     {
-      "name": "Wordpress",
+      "name": "StyleAPA.org",
       "isActive": true,
-      "description": "Este CMS me ayudó mucho a optimizar los tiempos de creación de sitios web.",
+      "description": "Iniciativa de expansión global diseñada para llevar las pautas, traducciones y plantillas adaptadas del formato APA a múltiples idiomas, rompiendo barreras lingüísticas para estudiantes.",
       "highlights": [
-        "Herramienta productiva",
-        "Que agiliza el tiempo de trabajo"
+        "Internacionalización",
+        "Multilingüe",
+        "Recursos Digitales"
       ],
-      "url": "#",
-      "github": "#"
+      "url": "https://styleapa.org/"
     },
     {
-      "name": "GitHub",
+      "name": "MenteViva (YouTube)",
       "isActive": true,
-      "description": "Un poco nuevo en esto, pero me alienta todo lo que podemos hacer aquí.",
+      "description": "Nuevo espacio de contenido digital enfocado en el desarrollo, aprendizaje y optimización del potencial cognitivo en Latinoamérica. Un canal dedicado al crecimiento intelectual y formativo.",
       "highlights": [
-        "Indispensable",
-        "Para cualquier desarrollador"
+        "Latam",
+        "Aprendizaje",
+        "Contenido Audiovisual"
       ],
-      "url": "#",
-      "github": "#"
-    },
-    {
-      "name": "Astro",
-      "description": "Este Framework lo conocí gracias a Miguel Ángel Durán (midulive), y la velocidad es espectacular.",
-      "highlights": [
-        "El descubrimiento",
-        "Que cambio las reglas del juego"
-      ],
-      "url": "https://carlosflores.com.es/"
+      "url": "https://www.youtube.com/@MenteViva-Latam"
     }
   ]
 }
