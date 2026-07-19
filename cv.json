@@ -48,7 +48,7 @@
     {
       "name": "Consultor SEO",
       "position": "Organizaciones y dependencias",
-      "url": "#",
+      "url": "https://carlosflores.com.es",
       "startDate": "2017-03-01",
       "endDate": null,
       "summary": "Soy consultor SEO de algunas organizaciones estatales donde mi trabajo es verificar que se sigan mis indicaciones de optimización en artículos, páginas y campañas.",
@@ -60,6 +60,7 @@
     {
       "name": "Fundador de OAEE",
       "position": "Organización de Ayuda Educativa en Español",
+      "url": "https://apa.org.es",
       "startDate": "2021-05-13",
       "endDate": null,
       "summary": "Creador de la Organización de Ayuda Educativa en Español (OAEE) para ofrecer recursos educativos gratuitos y confiables en español.",
@@ -71,12 +72,13 @@
     {
       "name": "Desarrollador Web",
       "position": "Senior Developer, WebMaster",
+      "url": "https://carlosflores.com.es",
       "startDate": "2011-01-13",
       "endDate": null,
       "summary": "Creo sitios web bien estructurados internamente, optimizo contenidos y realizo diseños que cumplan con pautas como EEAT.",
       "highlights": [
         "Experiencia de Usuario (UX)",
-        "E-E-A-T Optimización"
+        "Optimización EEAT"
       ]
     }
   ],
@@ -85,7 +87,7 @@
     {
       "institution": "Universidad Veracruzana",
       "url": "https://www.uv.mx",
-      "area": "Licenciatura en Lengua y Literatura (Trayecto Parcial — Cursados 2.5 años)",
+      "area": "Licenciatura en Lengua y Literatura (Trayecto Parcial - Cursados 2.5 años)",
       "studyType": "Superior",
       "startDate": "2009-01-01",
       "endDate": null,
