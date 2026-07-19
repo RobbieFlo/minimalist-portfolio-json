@@ -38,7 +38,7 @@
       "position": "Especialista en SEO On Page",
       "url": "https://carlosflores.com.es",
       "startDate": "2014-01-01",
-      "endDate": null,
+      "endDate": "",
       "summary": "Dedicado a clasificar sitios web en los navegadores mediante técnicas de SEO y con el propósito de ganar dinero monetizando los sitios con Ads y/o afiliados.",
       "highlights": [
         "Monetización orgánica",
@@ -50,7 +50,7 @@
       "position": "Organizaciones y dependencias",
       "url": "https://carlosflores.com.es",
       "startDate": "2017-03-01",
-      "endDate": null,
+      "endDate": "",
       "summary": "Soy consultor SEO de algunas organizaciones estatales donde mi trabajo es verificar que se sigan mis indicaciones de optimización en artículos, páginas y campañas.",
       "highlights": [
         "Estrategia de contenidos",
@@ -62,7 +62,7 @@
       "position": "Organización de Ayuda Educativa en Español",
       "url": "https://apa.org.es",
       "startDate": "2021-05-13",
-      "endDate": null,
+      "endDate": "",
       "summary": "Creador de la Organización de Ayuda Educativa en Español (OAEE) para ofrecer recursos educativos gratuitos y confiables en español.",
       "highlights": [
         "Educación libre",
@@ -74,7 +74,7 @@
       "position": "Senior Developer, WebMaster",
       "url": "https://carlosflores.com.es",
       "startDate": "2011-01-13",
-      "endDate": null,
+      "endDate": "",
       "summary": "Creo sitios web bien estructurados internamente, optimizo contenidos y realizo diseños que cumplan con pautas como EEAT.",
       "highlights": [
         "Experiencia de Usuario (UX)",
@@ -90,8 +90,8 @@
       "area": "Licenciatura en Lengua y Literatura (Trayecto Parcial - Cursados 2.5 años)",
       "studyType": "Superior",
       "startDate": "2009-01-01",
-      "endDate": null,
-      "score": null,
+      "endDate": "",
+      "score": "",
       "courses": [
         "Gramática Avanzada",
         "Formatos Editoriales",
