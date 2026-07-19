@@ -164,7 +164,8 @@
         "Generador Automático",
         "Educación Libre"
       ],
-      "url": "https://apa.org.es/"
+      "url": "https://apa.org.es/",
+      "github": ""
     },
     {
       "name": "Red de Portales de Aprendizaje",
@@ -175,7 +176,8 @@
         "SEO Educativo",
         "Pedagogía"
       ],
-      "url": "https://organigramas.com.es/"
+      "url": "https://organigramas.com.es/",
+      "github": ""
     },
     {
       "name": "APA para TODOS (YouTube)",
@@ -186,7 +188,8 @@
         "YouTube",
         "Formato Académico"
       ],
-      "url": "https://www.youtube.com/@APA-Formato"
+      "url": "https://www.youtube.com/@APA-Formato",
+      "github": ""
     },
     {
       "name": "StyleAPA.org",
@@ -197,7 +200,8 @@
         "Multilingüe",
         "Recursos Digitales"
       ],
-      "url": "https://styleapa.org/"
+      "url": "https://styleapa.org/",
+      "github": ""
     },
     {
       "name": "MenteViva (YouTube)",
@@ -208,7 +212,8 @@
         "Aprendizaje",
         "Contenido Audiovisual"
       ],
-      "url": "https://www.youtube.com/@MenteViva-Latam"
+      "url": "https://www.youtube.com/@MenteViva-Latam",
+      "github": ""
     }
   ]
 }
