@@ -6,7 +6,7 @@
     "email": "carlosflar@outlook.com",
     "phone": "+52 2224914968",
     "url": "https://carlosflores.com.es",
-    "summary": "Especialista en el desarrollo de portales educativos, consultorías de Estilo APA, control de calidad lingüística y proyectos vinculados al entrenamiento y evaluación de modelos de inteligencia artificial (AI Training). Cuento con amplia experiencia estructurando contenido de alta precisión, optimizando respuestas complejas y validando formatos académicos rigurosos.",
+    "summary": "Especialista en el desarrollo de portales educativos, consultorías de Estilo APA, control de calidad lingüística y proyectos vinculados al entrenamiento y evaluación de modelos de inteligencia artificial (AI Training). Cuento con amplia experiencia estructurando contenido de alta precisión, optimizando respuestas complejas y validando formatos académicos rigurosos. Mi interés por las palabras viene de familia: mi abuelo fue periodista y llegó a tener su propio periódico, y crecí rodeado de esa curiosidad por el lenguaje. Con el tiempo convertí ese gusto por escribir bien en una forma de trabajar: hoy combino la redacción rigurosa con la tecnología, aplicando ese mismo cuidado por el detalle en mi trabajo con inteligencia artificial.",
     "location": {
       "address": "Jardines de San Manuel",
       "postalCode": "072570",
@@ -33,6 +33,18 @@
     ]
   },
   "work": [
+    {
+      "name": "Escritor y Redactor Profesional",
+      "position": "Redacción de contenido y artículos especializados",
+      "url": "https://apa.org.es",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "summary": "Más de 500 artículos escritos y publicados en distintos portales educativos y de divulgación en español. Especializado en redacción académica, corrección de estilo y adaptación de contenido complejo a un lenguaje claro y accesible para audiencias hispanohablantes.",
+      "highlights": [
+        "Más de 500 artículos publicados",
+        "Redacción académica y editorial"
+      ]
+    },
     {
       "name": "SEO Profesional",
       "position": "Especialista en SEO On Page",
@@ -97,6 +109,35 @@
         "Formatos Editoriales",
         "Estilo APA"
       ]
+    },
+    {
+      "institution": "Formación Autodidacta",
+      "url": "https://claude.ai",
+      "area": "Inteligencia Artificial aplicada — modelos de lenguaje (Claude y otros LLMs) (En curso)",
+      "studyType": "Autodidacta",
+      "startDate": "2024-05-01",
+      "endDate": "2026-07-19",
+      "score": "",
+      "courses": [
+        "Prompt Engineering",
+        "Entrenamiento y evaluación de modelos de IA (AI Training)",
+        "Automatización de flujos de contenido con IA",
+        "Fundamentos de modelos de lenguaje (LLMs)"
+      ]
+    },
+    {
+      "institution": "Preparatoria — Puebla, México",
+      "url": "",
+      "area": "Bachillerato General",
+      "studyType": "Bachillerato",
+      "startDate": "2001-01-01",
+      "endDate": "2003-01-01",
+      "score": "",
+      "courses": [
+        "Ciencias Sociales",
+        "Humanidades",
+        "Competencias Lingüísticas Básicas"
+      ]
     }
   ],
   "awards": [],
@@ -110,7 +151,8 @@
         "Normativa y Estilo APA",
         "Gramática y ortografía",
         "Corrección de estilo",
-        "Redacción académica"
+        "Redacción académica",
+        "Localización y adaptación lingüística de contenido"
       ]
     },
     {
@@ -120,7 +162,8 @@
         "Portales educativos libres",
         "Guionismo audiovisual",
         "Generadores académicos",
-        "Divulgación digital"
+        "Divulgación digital",
+        "Investigación documental y validación de fuentes"
       ]
     },
     {
@@ -130,7 +173,9 @@
         "Desarrollo frontend (HTML/CSS/JS)",
         "Entrenamiento e IA (Claude)",
         "Automatización digital",
-        "Control de versiones (GitHub)"
+        "Control de versiones (GitHub)",
+        "Prompt Engineering aplicado a modelos LLM",
+        "Evaluación y optimización de respuestas de IA (AI Training)"
       ]
     }
   ],
@@ -213,6 +258,18 @@
         "Contenido Audiovisual"
       ],
       "url": "https://www.youtube.com/@MenteViva-Latam",
+      "github": ""
+    },
+    {
+      "name": "Especialización en IA con Claude",
+      "isActive": true,
+      "description": "Formación práctica y aplicada en el uso de Claude y otros modelos de lenguaje para tareas de entrenamiento, evaluación y optimización de respuestas de IA (AI Training), combinando mi experiencia en redacción y estructuración de contenido con la evaluación de calidad en sistemas de inteligencia artificial.",
+      "highlights": [
+        "AI Training",
+        "Evaluación de Modelos",
+        "Prompt Engineering"
+      ],
+      "url": "https://claude.ai",
       "github": ""
     }
   ]
