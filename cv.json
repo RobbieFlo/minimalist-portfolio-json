@@ -6,7 +6,7 @@
     "email": "carlosflar@outlook.com",
     "phone": "+52 2224914968",
     "url": "https://carlosflores.com.es",
-    "summary": "Especialista en el desarrollo de portales educativos, consultorías de Estilo APA, control de calidad lingüística y proyectos vinculados al entrenamiento y evaluación de modelos de inteligencia artificial (AI Training). Cuento con amplia experiencia estructurando contenido de alta precisión, optimizando respuestas complejas y validando formatos académicos rigurosos. Mi interés por las palabras viene de familia: mi abuelo fue periodista y llegó a tener su propio periódico, y crecí rodeado de esa curiosidad por el lenguaje. Con el tiempo convertí ese gusto por escribir bien en una forma de trabajar: hoy combino la redacción rigurosa con la tecnología, aplicando ese mismo cuidado por el detalle en mi trabajo con inteligencia artificial.",
+    "summary": "Especialista en el desarrollo de portales educativos, consultorías de Estilo APA, control de calidad lingüística y proyectos vinculados al entrenamiento y evaluación de modelos de inteligencia artificial (AI Training). Cuento con amplia experiencia estructurando contenido de alta precisión, optimizando respuestas complejas y validando formatos académicos rigurosos.\n\nMi interés por las palabras viene de familia: mi abuelo fue periodista y llegó a tener su propio periódico, y crecí rodeado de esa curiosidad por el lenguaje. Con el tiempo convertí ese gusto por escribir bien en una forma de trabajar: hoy combino la redacción rigurosa con la tecnología, aplicando ese mismo cuidado por el detalle en mi trabajo con inteligencia artificial.",
     "location": {
       "address": "Jardines de San Manuel",
       "postalCode": "072570",
@@ -176,6 +176,46 @@
         "Control de versiones (GitHub)",
         "Prompt Engineering aplicado a modelos LLM",
         "Evaluación y optimización de respuestas de IA (AI Training)"
+      ]
+    },
+    {
+      "name": "SEO y Analítica Web",
+      "level": "Experto",
+      "keywords": [
+        "SEMrush",
+        "WordPress",
+        "Auditorías técnicas SEO",
+        "Google Search Console"
+      ]
+    },
+    {
+      "name": "Inteligencia Artificial y AI Training",
+      "level": "Avanzado",
+      "keywords": [
+        "Prompt Engineering",
+        "Evaluación de modelos LLM",
+        "Entrenamiento con Claude",
+        "Automatización de contenido con IA"
+      ]
+    },
+    {
+      "name": "Producción Audiovisual",
+      "level": "Intermedio",
+      "keywords": [
+        "Guionismo para YouTube",
+        "Edición de video",
+        "Locución y TTS",
+        "Storytelling educativo"
+      ]
+    },
+    {
+      "name": "Gestión de Proyectos Digitales",
+      "level": "Avanzado",
+      "keywords": [
+        "Monetización web",
+        "Estrategia de contenido",
+        "Email marketing (MailerLite)",
+        "Publicación en Hotmart"
       ]
     }
   ],
